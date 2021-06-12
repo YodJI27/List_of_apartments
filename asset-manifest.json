@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f387347d.chunk.css",
-    "main.js": "/static/js/main.ac382972.chunk.js",
-    "main.js.map": "/static/js/main.ac382972.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6798be58.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6798be58.js.map",
-    "static/js/2.a9722077.chunk.js": "/static/js/2.a9722077.chunk.js",
-    "static/js/2.a9722077.chunk.js.map": "/static/js/2.a9722077.chunk.js.map",
-    "static/js/3.8a007a6f.chunk.js": "/static/js/3.8a007a6f.chunk.js",
-    "static/js/3.8a007a6f.chunk.js.map": "/static/js/3.8a007a6f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f387347d.chunk.css.map": "/static/css/main.f387347d.chunk.css.map",
-    "static/js/2.a9722077.chunk.js.LICENSE.txt": "/static/js/2.a9722077.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Inter.var.9df5db38.woff2",
-    "static/media/image.7e18256b.jpg": "/static/media/image.7e18256b.jpg"
+    "main.css": "/List_of_apartments/static/css/main.f1d5ba54.chunk.css",
+    "main.js": "/List_of_apartments/static/js/main.ac382972.chunk.js",
+    "main.js.map": "/List_of_apartments/static/js/main.ac382972.chunk.js.map",
+    "runtime-main.js": "/List_of_apartments/static/js/runtime-main.76b5f08c.js",
+    "runtime-main.js.map": "/List_of_apartments/static/js/runtime-main.76b5f08c.js.map",
+    "static/js/2.a9722077.chunk.js": "/List_of_apartments/static/js/2.a9722077.chunk.js",
+    "static/js/2.a9722077.chunk.js.map": "/List_of_apartments/static/js/2.a9722077.chunk.js.map",
+    "static/js/3.8a007a6f.chunk.js": "/List_of_apartments/static/js/3.8a007a6f.chunk.js",
+    "static/js/3.8a007a6f.chunk.js.map": "/List_of_apartments/static/js/3.8a007a6f.chunk.js.map",
+    "index.html": "/List_of_apartments/index.html",
+    "static/css/main.f1d5ba54.chunk.css.map": "/List_of_apartments/static/css/main.f1d5ba54.chunk.css.map",
+    "static/js/2.a9722077.chunk.js.LICENSE.txt": "/List_of_apartments/static/js/2.a9722077.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/List_of_apartments/static/media/Inter.var.9df5db38.woff2",
+    "static/media/image.7e18256b.jpg": "/List_of_apartments/static/media/image.7e18256b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6798be58.js",
+    "static/js/runtime-main.76b5f08c.js",
     "static/js/2.a9722077.chunk.js",
-    "static/css/main.f387347d.chunk.css",
+    "static/css/main.f1d5ba54.chunk.css",
     "static/js/main.ac382972.chunk.js"
   ]
 }
