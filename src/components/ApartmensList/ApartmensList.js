@@ -10,8 +10,8 @@ const ApartmensList = () => {
   const apper = useSelector((state) => state.Apartmens.apartment);
 
   useEffect(() => {
-    dispatch(Creator());
-  }, []);
+    dispatch(Creator()); // eslint-disable-next-line
+  }, []); 
 
   return (
     <section className="ApartmensList">
