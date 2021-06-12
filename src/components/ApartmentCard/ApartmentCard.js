@@ -8,7 +8,7 @@ const ApartmentCard = ({ item }) => {
   const handleChangeLike = () => {
     like ? setLike(false) : setLike(true);
   };
-  console.log(like);
+
   return (
     <section className="ApartmentCard">
       <img src={image} alt="квартира" className="ApartmentCard__image"></img>
@@ -22,7 +22,9 @@ const ApartmentCard = ({ item }) => {
       </ul>
       <button
         className={`${
-          like ? "ApartmentCard__like ApartmentCard__like_active" : "ApartmentCard__like"
+          like
+            ? "ApartmentCard__like ApartmentCard__like_active"
+            : "ApartmentCard__like"
         }`}
         onClick={handleChangeLike}
       ></button>

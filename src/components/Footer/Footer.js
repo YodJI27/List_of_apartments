@@ -1,9 +1,11 @@
-import './Footer.css';
+import "./Footer.css";
 
 const Footer = () => {
   return (
     <div className="Footer">
-      <p className="Footer__copyright">{`Илья Шнырев `}&copy; {new Date().getFullYear()}</p>
+      <p className="Footer__copyright">
+        {`Илья Шнырев `}&copy; {new Date().getFullYear()}
+      </p>
     </div>
   );
 };
